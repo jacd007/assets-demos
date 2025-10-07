@@ -1,0 +1,13 @@
+{
+  "id": 0,
+  "greeting": "Welcome to DevUtils!",
+  "price": 12.55,
+  "status": false,
+  "instructions": [
+    "Type",
+    "Sample"
+  ],
+  "metadata":{
+    "file":null
+  }
+}
