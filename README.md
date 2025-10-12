@@ -4,6 +4,8 @@ A files assets from demo.
 
 ## Getting Started
 
+ Use https://raw.githubusercontent.com/jacd007/assets-demos/main/ + file.ext
+
 - [audio](https://raw.githubusercontent.com/jacd007/assets-demos/main/audio.mp3)
 - [image](https://raw.githubusercontent.com/jacd007/assets-demos/main/image.jpg)
 - [json](https://raw.githubusercontent.com/jacd007/assets-demos/main/json.json)
